@@ -2,7 +2,6 @@
 """
 SecBLiZZ' RFI-Bot by tw!XX
 """
-from bs4 import BeautifulSoup
 import requests
 
 hostlist = open('result.txt','r').read().splitlines()
