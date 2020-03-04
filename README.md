@@ -9,6 +9,12 @@ jmxscan.py -- will dictionary-attack a list of jmx sites, textfile jmx2brute.txt
 Have fun using this tools.<br>
 Greetz fly out to:<br>
 warrior2k,spoofed-dog,MaXtOr,Acid-Rain<br>
+HDR-FXP<br>
+Assassins.Reloaded<br>
+Team.Solaris<br>
+Team.AdminsNightmare<br>
+especially Prometheus, l0rd, Legolas, Phoenix<br>
 http://www.FXP-Terminal.info<br>
 triple6<br>
+R.I.P. Spl0iterZ<br>
 and all I forgot :)
